@@ -1,0 +1,7 @@
+configuration {
+    modi: "drun,ssh";
+    kb-cancel: "Escape,Alt+F1";
+    show-icons: true;
+}
+
+@import "/home/glitch/.config/rofi/cyberpunk.rasi"
